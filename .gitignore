@@ -1,0 +1,8 @@
+records.json
+records.json.bak
+assets_wiki/
+_internal/
+_backup_*/
+db/
+update.log
+__pycache__/
